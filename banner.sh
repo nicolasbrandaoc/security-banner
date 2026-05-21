@@ -1,12 +1,17 @@
 
 #!/bin/bash
 
-BANNER_TEXT="AUTHORIZED USE ONLY
+BANNER_TEXT="
+****************************************************
+*                 AUTHORIZED USE ONLY              *
+****************************************************
 
 All activities may be monitored and audited.
-Personal data may be processed under LGPD (Brazilian Law 13.709/2018).
+Subject to LGPD (Law 13.709/2018).
 
 Unauthorized access is prohibited.
+
+****************************************************
 "
 
 echo "Aplicando banner de segurança..."
